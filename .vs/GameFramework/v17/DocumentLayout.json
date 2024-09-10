@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|solutionrelative:Device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|solutionrelative:MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\GameFramework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|solutionrelative:GameFramework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|solutionrelative:targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|solutionrelative:Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|solutionrelative:Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|solutionrelative:Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|solutionrelative:Include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|solutionrelative:Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Ingame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|solutionrelative:Ingame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|solutionrelative:Shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Shape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74F439E0-AB1F-4F47-8910-025BC75F8C1F}|GameFramework.vcxproj|solutionrelative:Shape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{5d51d786-731c-4256-bf95-6a6dd495c7d7}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Device.cpp",
+              "DocumentMoniker": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Device.cpp",
+              "RelativeDocumentMoniker": "Device.cpp",
+              "ToolTip": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Device.cpp",
+              "RelativeToolTip": "Device.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T03:32:07.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "targetver.h",
+              "DocumentMoniker": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\targetver.h",
+              "RelativeDocumentMoniker": "targetver.h",
+              "ToolTip": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\targetver.h",
+              "RelativeToolTip": "targetver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T03:25:26.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameFramework.h",
+              "DocumentMoniker": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\GameFramework.h",
+              "RelativeDocumentMoniker": "GameFramework.h",
+              "ToolTip": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\GameFramework.h",
+              "RelativeToolTip": "GameFramework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T03:25:16.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shape.h",
+              "DocumentMoniker": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Shape.h",
+              "RelativeDocumentMoniker": "Shape.h",
+              "ToolTip": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Shape.h",
+              "RelativeToolTip": "Shape.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T03:23:15.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.h",
+              "DocumentMoniker": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\MainGame.h",
+              "RelativeDocumentMoniker": "MainGame.h",
+              "ToolTip": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\MainGame.h",
+              "RelativeToolTip": "MainGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T03:23:10.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ingame.h",
+              "DocumentMoniker": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Ingame.h",
+              "RelativeDocumentMoniker": "Ingame.h",
+              "ToolTip": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Ingame.h",
+              "RelativeToolTip": "Ingame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T03:23:08.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Scene.h",
+              "DocumentMoniker": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Scene.h",
+              "RelativeDocumentMoniker": "Scene.h",
+              "ToolTip": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Scene.h",
+              "RelativeToolTip": "Scene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T03:23:06.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Include.h",
+              "DocumentMoniker": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Include.h",
+              "RelativeDocumentMoniker": "Include.h",
+              "ToolTip": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Include.h",
+              "RelativeToolTip": "Include.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T03:23:03.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Function.h",
+              "DocumentMoniker": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Function.h",
+              "RelativeDocumentMoniker": "Function.h",
+              "ToolTip": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Function.h",
+              "RelativeToolTip": "Function.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T03:23:02.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Define.h",
+              "DocumentMoniker": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Define.h",
+              "RelativeDocumentMoniker": "Define.h",
+              "ToolTip": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Define.h",
+              "RelativeToolTip": "Define.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T03:23:00.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.h",
+              "DocumentMoniker": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Device.h",
+              "RelativeDocumentMoniker": "Device.h",
+              "ToolTip": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Device.h",
+              "RelativeToolTip": "Device.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T03:22:55.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shape.cpp",
+              "DocumentMoniker": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Shape.cpp",
+              "RelativeDocumentMoniker": "Shape.cpp",
+              "ToolTip": "D:\\My \uC790\uB8CC\uB4E4\\\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\\uD074\uB77C\uC774\uC5B8\uD2B8\\\uAC9C\uD5045 DirectX\\3D\\D3D_Framework - \uC815\uC721\uBA74\uCCB4\\Shape.cpp",
+              "RelativeToolTip": "Shape.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T03:21:08.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
